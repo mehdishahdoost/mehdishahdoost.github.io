@@ -6,10 +6,19 @@
     <description>Recent content on Void</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 00:34:58 +0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 00:34:58 +0400</lastBuildDate>
     
 	<atom:link href="https://mehdishahdoost.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Armenian Language Tutorial</title>
+      <link>https://mehdishahdoost.github.io/posts/armenian-language-tutorial/</link>
+      <pubDate>Sat, 29 Jan 2022 00:34:58 +0400</pubDate>
+      
+      <guid>https://mehdishahdoost.github.io/posts/armenian-language-tutorial/</guid>
+      <description>Most frequently used words in armenian    Armenian Word English Word     տոպրակ (toprak) Bag    </description>
+    </item>
     
     <item>
       <title>My First Post</title>
@@ -28,15 +37,6 @@
       
       <guid>https://mehdishahdoost.github.io/fa/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mehdishahdoost.github.io/posts/armenian-language-tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mehdishahdoost.github.io/posts/armenian-language-tutorial/</guid>
-      <description>Most frequently used words in armenian |&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;| |Armenian Word | English Word | | տոպրակ (toprak) | Bag |</description>
     </item>
     
   </channel>
