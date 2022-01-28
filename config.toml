@@ -1,6 +1,6 @@
 baseURL = 'https://mehdishahdoost.github.io/'
 languageCode = 'en-us'
-title = 'Void'
+title = 'Void Blog'
 theme= 'paper'
 [params]
 twitter = 'm_shahdoost'                # twitter.com/YOUR_TWITTER_ID
