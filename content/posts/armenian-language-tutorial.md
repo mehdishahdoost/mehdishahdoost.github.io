@@ -6,6 +6,8 @@ draft: true
 
 ### Most frequently used words in armenian 
 
-| Armenian Word | English Word |
+| Armenian Word/Sentence | English Translation |
 | -------------- |--------------|
+| այո (ayo) | yes |
+| ոչ (voch) | no |
 | տոպրակ (toprak) | Bag |
