@@ -22,7 +22,7 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: mehdishahdoost/mehdishahdoost.github.io
-          publish_dir: .
+          publish_dir: ./public
           #   keep_files: true
           user_name: mehdishahdoost
           user_email: persianshadow@gmail.com
