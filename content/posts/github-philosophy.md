@@ -1,6 +1,6 @@
 ---
 title: "Github Design Philosophy"
-date: 2022-01-29T00:34:58+04:00
+date: 2022-04-18T00:34:58+04:00
 draft: true
 ---
 
