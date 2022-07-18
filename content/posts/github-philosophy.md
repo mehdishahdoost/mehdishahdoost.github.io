@@ -17,4 +17,5 @@ If you use the aforementioned curl command repeatedly, you will receive one phil
 * It's not fully shipped until it's fast.
 * Keep it logically awesome.
 
+
 Let's explore other philosophies just by API calls...
