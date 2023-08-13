@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Void Blog</title>
+    <title>Posts on Mehdi Notes</title>
     <link>https://mehdishahdoost.github.io/posts/</link>
-    <description>Recent content in Posts on Void Blog</description>
+    <description>Recent content in Posts on Mehdi Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Aug 2022 00:34:58 +0400</lastBuildDate><atom:link href="https://mehdishahdoost.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
       
       <guid>https://mehdishahdoost.github.io/posts/best-music-in-the-world/</guid>
       <description>Bill withers - Lovely Day - (R&amp;amp;B/Soul)
- https://www.youtube.com/watch?v=yfcTgnpo3vI</description>
+https://www.youtube.com/watch?v=yfcTgnpo3vI</description>
     </item>
     
     <item>
@@ -24,17 +24,9 @@
       
       <guid>https://mehdishahdoost.github.io/posts/github-philosophy/</guid>
       <description>Every Hitech company has a set of guiding principles for creating its goods, but sometimes it might be hard to find these philosophies if you don&amp;rsquo;t work for that company. Github is really different because you can be able to quickly become comfortable with the GitHub design philosophy through an API request.
- curl https://api.github.com/zen
- If you use the aforementioned curl command repeatedly, you will receive one philosophy. for instance:</description>
-    </item>
-    
-    <item>
-      <title>Armenian Language Tutorial</title>
-      <link>https://mehdishahdoost.github.io/posts/armenian-language-tutorial/</link>
-      <pubDate>Sat, 29 Jan 2022 00:34:58 +0400</pubDate>
-      
-      <guid>https://mehdishahdoost.github.io/posts/armenian-language-tutorial/</guid>
-      <description>Most frequently used words in armenian    Armenian Word/Sentence English Translation     այո (ayo) yes   ոչ (voch) no   տոպրակ (toprak) Bag    </description>
+curl https://api.github.com/zen
+If you use the aforementioned curl command repeatedly, you will receive one philosophy. for instance:
+Non-blocking is better than blocking.</description>
     </item>
     
     <item>
@@ -43,8 +35,7 @@
       <pubDate>Mon, 24 Jan 2022 00:34:58 +0400</pubDate>
       
       <guid>https://mehdishahdoost.github.io/posts/my-first-post/</guid>
-      <description> Yes! it&amp;rsquo;s my blog that I created it with hugo. I want to write about technology, programming and many more in this blog.
- </description>
+      <description>Yes! it&amp;rsquo;s my blog that I created it with hugo. I want to write about technology, programming and many more in this blog.</description>
     </item>
     
   </channel>
