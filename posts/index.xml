@@ -6,17 +6,7 @@
     <description>Recent content in Posts on Mehdi Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2022 00:34:58 +0400</lastBuildDate><atom:link href="https://mehdishahdoost.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Best Ever Music</title>
-      <link>https://mehdishahdoost.github.io/posts/best-music-in-the-world/</link>
-      <pubDate>Sat, 13 Aug 2022 00:34:58 +0400</pubDate>
-      
-      <guid>https://mehdishahdoost.github.io/posts/best-music-in-the-world/</guid>
-      <description>Bill withers - Lovely Day - (R&amp;amp;B/Soul)
-https://www.youtube.com/watch?v=yfcTgnpo3vI</description>
-    </item>
-    
+    <lastBuildDate>Mon, 18 Apr 2022 00:34:58 +0400</lastBuildDate><atom:link href="https://mehdishahdoost.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github Design Philosophy</title>
       <link>https://mehdishahdoost.github.io/posts/github-philosophy/</link>
@@ -27,15 +17,6 @@ https://www.youtube.com/watch?v=yfcTgnpo3vI</description>
 curl https://api.github.com/zen
 If you use the aforementioned curl command repeatedly, you will receive one philosophy. for instance:
 Non-blocking is better than blocking.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://mehdishahdoost.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 24 Jan 2022 00:34:58 +0400</pubDate>
-      
-      <guid>https://mehdishahdoost.github.io/posts/my-first-post/</guid>
-      <description>Yes! it&amp;rsquo;s my blog that I created it with hugo. I want to write about technology, programming and many more in this blog.</description>
     </item>
     
   </channel>
