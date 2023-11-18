@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdishahdoost.github.io/posts/github-philosophy/</loc>
-    <lastmod>2022-04-18T00:34:58+04:00</lastmod>
-  </url><url>
     <loc>https://mehdishahdoost.github.io/</loc>
-    <lastmod>2022-04-18T00:34:58+04:00</lastmod>
+    <lastmod>2023-11-18T00:34:58+04:00</lastmod>
   </url><url>
     <loc>https://mehdishahdoost.github.io/posts/</loc>
+    <lastmod>2023-11-18T00:34:58+04:00</lastmod>
+  </url><url>
+    <loc>https://mehdishahdoost.github.io/posts/timed-text/</loc>
+    <lastmod>2023-11-18T00:34:58+04:00</lastmod>
+  </url><url>
+    <loc>https://mehdishahdoost.github.io/posts/github-philosophy/</loc>
     <lastmod>2022-04-18T00:34:58+04:00</lastmod>
   </url><url>
     <loc>https://mehdishahdoost.github.io/categories/</loc>
