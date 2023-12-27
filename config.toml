@@ -3,5 +3,5 @@ languageCode = 'en-us'
 title = 'Mehdi Notes'
 theme= 'paper'
 [params]
-#twitter = 'mehdi_notes'                # twitter.com/YOUR_TWITTER_ID
-#github = 'mehdishahdoost'                  # github.com/YOUR_GITHUB_ID
+twitter = 'mehdi_notes'                # twitter.com/YOUR_TWITTER_ID
+github = 'mehdishahdoost'                  # github.com/YOUR_GITHUB_ID
