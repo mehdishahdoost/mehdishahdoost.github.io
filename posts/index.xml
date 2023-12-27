@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mehdi Notes</title>
-    <link>https://mehdishahdoost.github.io/posts/</link>
+    <link>https://mehdishahdoost.com/posts/</link>
     <description>Recent content in Posts on Mehdi Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Nov 2023 00:34:58 +0400</lastBuildDate><atom:link href="https://mehdishahdoost.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 00:34:58 +0400</lastBuildDate><atom:link href="https://mehdishahdoost.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dev Container</title>
-      <link>https://mehdishahdoost.github.io/posts/dev-container/</link>
+      <link>https://mehdishahdoost.com/posts/dev-container/</link>
       <pubDate>Sat, 18 Nov 2023 00:34:58 +0400</pubDate>
       
-      <guid>https://mehdishahdoost.github.io/posts/dev-container/</guid>
-      <description></description>
+      <guid>https://mehdishahdoost.com/posts/dev-container/</guid>
+      <description>Test</description>
     </item>
     
     <item>
       <title>Timed Text Standards</title>
-      <link>https://mehdishahdoost.github.io/posts/timed-text/</link>
+      <link>https://mehdishahdoost.com/posts/timed-text/</link>
       <pubDate>Sat, 18 Nov 2023 00:34:58 +0400</pubDate>
       
-      <guid>https://mehdishahdoost.github.io/posts/timed-text/</guid>
+      <guid>https://mehdishahdoost.com/posts/timed-text/</guid>
       <description>What&amp;rsquo;s the Timed Text? Timed text is the presentation of text media in synchrony with other media, such as audio and video. Src
 W3C standards for Timed text WebVTT = Web Video Timed Text TTML = Timed Text Markup Language WebVTT Format File extension is vtt. This format defines a list of &amp;ldquo;cues&amp;rdquo; that have a start time, an end time, and text to display.</description>
     </item>
     
     <item>
       <title>Github Design Philosophy</title>
-      <link>https://mehdishahdoost.github.io/posts/github-philosophy/</link>
+      <link>https://mehdishahdoost.com/posts/github-philosophy/</link>
       <pubDate>Mon, 18 Apr 2022 00:34:58 +0400</pubDate>
       
-      <guid>https://mehdishahdoost.github.io/posts/github-philosophy/</guid>
+      <guid>https://mehdishahdoost.com/posts/github-philosophy/</guid>
       <description>Every Hitech company has a set of guiding principles for creating its goods, but sometimes it might be hard to find these philosophies if you don&amp;rsquo;t work for that company. Github is really different because you can be able to quickly become comfortable with the GitHub design philosophy through an API request.
 curl https://api.github.com/zen
 If you use the aforementioned curl command repeatedly, you will receive one philosophy. for instance:
