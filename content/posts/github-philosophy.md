@@ -1,7 +1,7 @@
 ---
 title: "Github Design Philosophy"
 date: 2022-04-18T00:34:58+04:00
-draft: true
+draft: false
 ---
 
 Every Hitech company has a set of guiding principles for creating its goods, but sometimes it might be hard to find these philosophies 

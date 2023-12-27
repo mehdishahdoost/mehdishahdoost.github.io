@@ -1,7 +1,7 @@
 ---
 title: "Timed Text Standards"
 date: 2023-11-18T00:34:58+04:00
-draft: true
+draft: false
 ---
 
 ### What's the Timed Text?
