@@ -4,7 +4,7 @@ button: 'About Me'
 weight: 2
 ---
 
-![mehdi-shahdoost](../themes/paper/static/about/images/mehdi-shahdoost.jpg)
+![mehdi-shahdoost](images/mehdi-shahdoost.jpg)
 
 It's me, Mehdi Shahdoost. Being a software developer, I have an obsession with technology and coding. 
 Having worked in the software industry for almost two decades, I have encountered 
