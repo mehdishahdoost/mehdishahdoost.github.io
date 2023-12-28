@@ -1,6 +1,6 @@
 baseURL = 'https://mehdishahdoost.com/'
 languageCode = 'en-us'
-title = 'Mehdi Notes'
+title = "Mehdi's Notes"
 theme= 'paper'
 [params]
 twitter = 'mehdi_notes'                # twitter.com/YOUR_TWITTER_ID
@@ -8,6 +8,6 @@ github = 'mehdishahdoost'                  # github.com/YOUR_GITHUB_ID
 [menu]
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "About Me"
 url = "/about/"
 weight = 10
