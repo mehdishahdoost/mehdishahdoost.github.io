@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mehdishahdoost.com/homepage/about/</loc>
+  </url><url>
     <loc>https://mehdishahdoost.com/</loc>
     <lastmod>2023-11-18T00:34:58+04:00</lastmod>
   </url><url>
@@ -15,6 +17,8 @@
     <lastmod>2022-04-18T00:34:58+04:00</lastmod>
   </url><url>
     <loc>https://mehdishahdoost.com/categories/</loc>
+  </url><url>
+    <loc>https://mehdishahdoost.com/homepage/</loc>
   </url><url>
     <loc>https://mehdishahdoost.com/tags/</loc>
   </url>
