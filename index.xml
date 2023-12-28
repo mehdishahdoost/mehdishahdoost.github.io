@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mehdi Notes</title>
+    <title>Mehdi&#39;s Notes</title>
     <link>https://mehdishahdoost.com/</link>
-    <description>Recent content on Mehdi Notes</description>
+    <description>Recent content on Mehdi&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Nov 2023 00:34:58 +0400</lastBuildDate><atom:link href="https://mehdishahdoost.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://mehdishahdoost.com/homepage/about/</link>
+      <link>https://mehdishahdoost.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mehdishahdoost.com/homepage/about/</guid>
+      <guid>https://mehdishahdoost.com/about/</guid>
       <description>It&amp;rsquo;s me, Mehdi Shahdoost. Being a software developer, I have an obsession with technology and coding. Having worked in the software industry for almost two decades, I have encountered a diverse spectrum of technologies, with the Java ecosystem being my primary focus.</description>
     </item>
     
