@@ -1,4 +1,4 @@
-baseURL = 'https://shahdoost.nl/'
+baseURL = 'https://shahdoost.nl'
 languageCode = 'en-us'
 title = "Mehdi's Notes"
 theme= 'paper'
