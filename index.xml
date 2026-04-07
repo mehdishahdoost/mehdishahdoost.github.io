@@ -6,7 +6,7 @@
     <description>Recent content on Mehdi&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 22:00:58 +0400</lastBuildDate><atom:link href="https://shahdoost.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Apr 2026 21:30:00 +0400</lastBuildDate><atom:link href="https://shahdoost.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://shahdoost.nl/about/</link>
@@ -14,6 +14,16 @@
       
       <guid>https://shahdoost.nl/about/</guid>
       <description>It&amp;rsquo;s me! Mehdi Shahdoost. Being a software developer, I have an obsession with technology and coding. Having worked in the software industry for almost two decades, I have encountered a diverse spectrum of technologies, with the Java ecosystem being my primary focus.</description>
+    </item>
+    
+    <item>
+      <title>The Long and Short of It: Mastering the Dash</title>
+      <link>https://shahdoost.nl/posts/story-of-dash/</link>
+      <pubDate>Tue, 07 Apr 2026 21:30:00 +0400</pubDate>
+      
+      <guid>https://shahdoost.nl/posts/story-of-dash/</guid>
+      <description>In the world of punctuation, size matters. To the untrained eye, the hyphen, the en dash, and the em dash might look like the same little horizontal line, but to a writer—and to a reader&amp;rsquo;s brain—they perform three entirely different functions.
+Using them correctly doesn&amp;rsquo;t just make your writing look professional; it controls the rhythm, clarity, and impact of your message. Here is how to tell them apart and use them like a pro.</description>
     </item>
     
     <item>
@@ -46,16 +56,6 @@ W3C standards for Timed text WebVTT = Web Video Timed Text TTML = Timed Text Mar
 curl https://api.github.com/zen
 If you use the aforementioned curl command repeatedly, you will receive one philosophy. for instance:
 Non-blocking is better than blocking.</description>
-    </item>
-    
-    <item>
-      <title>The Long and Short of It: Mastering the Dash</title>
-      <link>https://shahdoost.nl/posts/story-of-dash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shahdoost.nl/posts/story-of-dash/</guid>
-      <description>In the world of punctuation, size matters. To the untrained eye, the hyphen, the en dash, and the em dash might look like the same little horizontal line, but to a writer—and to a reader&amp;rsquo;s brain—they perform three entirely different functions.
-Using them correctly doesn&amp;rsquo;t just make your writing look professional; it controls the rhythm, clarity, and impact of your message. Here is how to tell them apart and use them like a pro.</description>
     </item>
     
   </channel>

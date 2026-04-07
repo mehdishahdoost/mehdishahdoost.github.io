@@ -5,12 +5,15 @@
     <loc>https://shahdoost.nl/about/</loc>
   </url><url>
     <loc>https://shahdoost.nl/</loc>
-    <lastmod>2023-12-28T22:00:58+04:00</lastmod>
-  </url><url>
-    <loc>https://shahdoost.nl/posts/mit-vs-apache-license/</loc>
-    <lastmod>2023-12-28T22:00:58+04:00</lastmod>
+    <lastmod>2026-04-07T21:30:00+04:00</lastmod>
   </url><url>
     <loc>https://shahdoost.nl/posts/</loc>
+    <lastmod>2026-04-07T21:30:00+04:00</lastmod>
+  </url><url>
+    <loc>https://shahdoost.nl/posts/story-of-dash/</loc>
+    <lastmod>2026-04-07T21:30:00+04:00</lastmod>
+  </url><url>
+    <loc>https://shahdoost.nl/posts/mit-vs-apache-license/</loc>
     <lastmod>2023-12-28T22:00:58+04:00</lastmod>
   </url><url>
     <loc>https://shahdoost.nl/posts/timed-text/</loc>
@@ -22,7 +25,5 @@
     <loc>https://shahdoost.nl/categories/</loc>
   </url><url>
     <loc>https://shahdoost.nl/tags/</loc>
-  </url><url>
-    <loc>https://shahdoost.nl/posts/story-of-dash/</loc>
   </url>
 </urlset>
