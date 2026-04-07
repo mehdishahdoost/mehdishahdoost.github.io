@@ -1,6 +1,6 @@
 ---
 title: "The Long and Short of It: Mastering the Dash"
-date: 2026-04-07T21:30:+04:00
+date: 2026-04-07T21:30:00+04:00
 draft: false
 ---
 
